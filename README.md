@@ -6,7 +6,7 @@
 
 :bulb: 令人惊叹的一些前端资源、工具包等汇总。
 
-参考贡献前，请先阅读[贡献指南]()。
+参考贡献前，请先阅读[贡献指南](https://github.com/FightingDesign/awesome/blob/master/CONTRIBUTING.md)。
 
 ## 插件
 
