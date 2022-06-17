@@ -8,7 +8,7 @@
 
 参考贡献前，请先阅读[贡献指南](https://github.com/FightingDesign/awesome/blob/master/CONTRIBUTING.md)。
 
-## 大家的博客
+## 博客
 
 - [Tyh2001](https://tianyuhao.cn/blog/)
 
