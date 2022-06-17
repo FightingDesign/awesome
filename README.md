@@ -38,6 +38,7 @@
 - [shields](https://shields.io/) 用于生成小标签 -> ![](https://img.shields.io/github/stars/FightingDesign/fighting-design)
 - [WinSCP](https://winscp.net/eng/docs/lang:chs) 一款服务器管理平台
 - [logoly](https://www.logoly.pro/#/) Pornhub 风格的徽标生成器，可以自定义排版和文字，生成挖掘机主题风格 Logo
+- [vectorMagic](https://zh.vectormagic.com/) 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像
 
 ## 教程
 
