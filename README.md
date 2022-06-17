@@ -17,15 +17,27 @@
 
 ## 文档
 
+- [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
+
 ## 工具
 
 **开发工具**
 
+- [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 可以用于演示正则表达式的执行效果
+- [asciiFlow](https://asciiflow.com/#/) 可以使用字符画出一些效果图，用于粘贴到代码的注释中
+
 **效率工具**
+
+- [Markdown Nice](https://editor.mdnice.com/) 一款 Markdown 编辑器，可以适配知乎、掘金等平台
+- [codeImg](https://codeimg.io/) 可以将代码片段的生成图片，用与插入文章
 
 **其它工具**
 
 - [木极简历](https://www.mujicv.com/) 一款使用 Markdown 编写简历的导出 PDF 的工具，免费使用
+- [小码短域名](https://xiaomark.com/) 可以将长域名生成短域名的工具
+- [shields](https://shields.io/) 用于生成小标签 -> ![](https://img.shields.io/github/stars/FightingDesign/fighting-design)
+- [WinSCP](https://winscp.net/eng/docs/lang:chs) 一款服务器管理平台
+- [logoly](https://www.logoly.pro/#/) Pornhub 风格的徽标生成器，可以自定义排版和文字，生成挖掘机主题风格 Logo
 
 ## 教程
 
