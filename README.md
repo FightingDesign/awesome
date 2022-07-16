@@ -19,6 +19,10 @@
 - [AdBlock — 最佳广告拦截工具](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN) 一款 Chrome 广告拦截插件，可以指定某个 html 元素的拦截
 - [捕捉网页截图 - FireShot 的](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh-CN) 一款 Chrome 截图插件，可以实现截取网页长图
 
+**Vite 插件**
+
+- [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) 用于生成 `.d.ts` 文件的 vite 插件
+
 ## 文档
 
 - [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
@@ -58,6 +62,7 @@
 - [极光加速器](https://www.qingfengwuhan.com/cn/) 以前免费，目前好像是付费版
 - [GW 树洞](https://hello-shudong.com/) 可购买梯子
 - [西游](https://sunwk.fun/) 西游加速器
+- [AdBlock VPN](https://vpn.getadblock.com/zh_CN/?s=ap1) 付费版
 
 **Github 仓库**
 
