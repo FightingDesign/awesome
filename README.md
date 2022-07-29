@@ -30,6 +30,7 @@
 **文档**
 
 - [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
 
 **书籍**
 
