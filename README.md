@@ -27,6 +27,11 @@
 
 ## 学习相关
 
+**面试系列**
+
+- [web 前端面试 - 面试官系列](https://vue3js.cn/interview/) 前端面试题
+- [Interview-record](https://github.com/Tyh2001/Interview-record) 这是 [田同学](https://github.com/Tyh2001) 真实的面试复盘
+
 **文档**
 
 - [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
@@ -56,13 +61,7 @@
 - [WinSCP](https://winscp.net/eng/docs/lang:chs) 一款服务器管理平台
 - [logoly](https://www.logoly.pro/#/) Pornhub 风格的徽标生成器，可以自定义排版和文字，生成挖掘机主题风格 Logo
 - [vectorMagic](https://zh.vectormagic.com/) 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像
-
-## 教程相关
-
-**面试系列**
-
-- [web 前端面试 - 面试官系列](https://vue3js.cn/interview/) 前端面试题
-- [Interview-record](https://github.com/Tyh2001/Interview-record) 这是 [田同学](https://github.com/Tyh2001) 真实的面试复盘
+- [Squoosh](https://squoosh.app/) 可以压缩图片的工具
 
 ## 梯子相关
 
@@ -77,3 +76,10 @@
 **Github 仓库**
 
 - [vpncn.github.io](https://github.com/vpncn/vpncn.github.io) 2022 中国翻墙软件 VPN 推荐以及科学上网避坑，稳定好用。对比 SSR 机场、蓝灯、V2ray、老王 VPN、VPS 搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子 VPN 下载推荐
+
+## UI 设计相关
+
+- [SvgWave](https://svgwave.in/) svg 波浪生成器
+- [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) 可以生产 css 的惊艳背景效果
+- [Custom Shape Dividers](https://www.shapedivider.app/) 自定义形状分隔线，可以生产 svg 的形状
+- [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/centering-known) 💄Web 开发者的 CSS 技巧~里面有多种 css 的案例效果提供使用
