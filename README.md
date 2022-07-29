@@ -4,15 +4,17 @@
 
 # Fighting Awesome
 
-:bulb: 令人惊叹的一些前端资源、工具包等汇总。
+💡 令人惊叹的一些前端资源、工具包等汇总。
 
 参考贡献前，请先阅读[贡献指南](https://github.com/FightingDesign/awesome/blob/master/CONTRIBUTING.md)。
 
-## 博客
+## 博客相关
+
+**个人博客**
 
 - [Tyh2001](https://tianyuhao.cn/blog/)
 
-## 插件
+## 插件相关
 
 **Chrome 插件**
 
@@ -23,11 +25,17 @@
 
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) 用于生成 `.d.ts` 文件的 vite 插件
 
-## 文档
+## 学习相关
+
+**文档**
 
 - [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
 
-## 工具
+**书籍**
+
+- [javascript-book](https://github.com/Tyh2001/javascript-book) 📚 JavaScript 书籍大全。
+
+## 工具相关
 
 **开发工具**
 
@@ -48,13 +56,14 @@
 - [logoly](https://www.logoly.pro/#/) Pornhub 风格的徽标生成器，可以自定义排版和文字，生成挖掘机主题风格 Logo
 - [vectorMagic](https://zh.vectormagic.com/) 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像
 
-## 教程
+## 教程相关
 
-**面试题**
+**面试系列**
 
 - [web 前端面试 - 面试官系列](https://vue3js.cn/interview/) 前端面试题
+- [Interview-record](https://github.com/Tyh2001/Interview-record) 这是 [田同学](https://github.com/Tyh2001) 真实的面试复盘
 
-## 梯子
+## 梯子相关
 
 **资源**
 
