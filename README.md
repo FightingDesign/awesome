@@ -12,7 +12,7 @@
 
 **个人博客**
 
-- [Tyh2001](https://tianyuhao.cn/blog/)
+- [Tyh2001](https://tianyuhao.cn/blog/) 这是 [田同学](https://github.com/Tyh2001) 的个人博客
 
 ## 插件相关
 
