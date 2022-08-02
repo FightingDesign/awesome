@@ -39,6 +39,7 @@
 
 - [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 可以用于演示正则表达式的执行效果
 - [asciiFlow](https://asciiflow.com/#/) 可以使用字符画出一些效果图，用于粘贴到代码的注释中
+- [Chrome](https://www.google.cn/chrome/) Chrome 浏览器官方网站下载
 
 ## 效率工具
 
