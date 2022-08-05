@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="400" src="./assets/FightingAwesome.svg" alt="Awesome FightingDesign">
+  <img width="400" src="./assets/FightingAwesome.svg" alt="Awesome FightingDesign">
 </div>
 
 # Fighting Awesome
@@ -10,7 +10,7 @@
 
 ## 博客相关
 
-- [Tyh2001](https://tianyuhao.cn/blog/) 这是 [田同学](https://github.com/Tyh2001) 的个人博客
+- [Tyh2001](https://blog.tianyuhao.cn) 这是 [田同学](https://github.com/Tyh2001) 的个人博客
 
 ## Chrome 插件
 
@@ -55,6 +55,7 @@
 - [logoly](https://www.logoly.pro/#/) Pornhub 风格的徽标生成器，可以自定义排版和文字，生成挖掘机主题风格 Logo
 - [vectorMagic](https://zh.vectormagic.com/) 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像
 - [Squoosh](https://squoosh.app/) 可以压缩图片的工具
+- [宝塔](https://www.bt.cn/new/index.html) 简单好用的 Linux / Windows 服务器运维管理面板
 
 ## 梯子相关
 
