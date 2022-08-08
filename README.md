@@ -60,7 +60,6 @@
 ## 梯子相关
 
 - [Superfast](http://www.super-fastapps.com/zh/) 一款加速器（收费版）
-- [极光加速器](https://www.qingfengwuhan.com/cn/) 以前免费，目前好像是付费版
 - [GW 树洞](https://hello-shudong.com/) 可购买梯子
 - [西游](https://sunwk.fun/) 西游加速器
 - [AdBlock VPN](https://vpn.getadblock.com/zh_CN/?s=ap1) 付费版
