@@ -33,7 +33,7 @@
 
 ## 书籍大全
 
-- [javascript-book](https://github.com/Tyh2001/javascript-book) 📚 JavaScript 书籍大全。
+- [awesome-books](https://github.com/Tyh2001/awesome-books) 📚 非常棒的程序员学习书籍大全。
 
 ## 开发工具
 
