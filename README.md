@@ -12,6 +12,11 @@
 
 - [Tyh2001](https://blog.tianyuhao.cn) 这是 [田同学](https://github.com/Tyh2001) 的个人博客
 
+## 宝藏级别
+
+- [MacWk](https://macwk.com/) 对于 Mac 系统可下载的各种破解版软件
+- [WinWk](https://winwk.com/) 对于 Windows 系统可下载的各种破解版软件
+
 ## Chrome 插件
 
 - [AdBlock — 最佳广告拦截工具](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN) 一款 Chrome 广告拦截插件，可以指定某个 html 元素的拦截
@@ -48,6 +53,7 @@
 
 ## 其它工具
 
+- [Termius](https://www.termius.com/) 一个简洁好用的 SSH 客户端，界面高端大气
 - [木极简历](https://www.mujicv.com/) 一款使用 Markdown 编写简历的导出 PDF 的工具，免费使用
 - [小码短域名](https://xiaomark.com/) 可以将长域名生成短域名的工具
 - [shields](https://shields.io/) 用于生成小标签 -> ![](https://img.shields.io/github/stars/FightingDesign/fighting-design)
