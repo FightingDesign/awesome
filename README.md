@@ -25,6 +25,7 @@
 ## Vite 插件
 
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) 可用作 ts 类型打包，用于生成 `.d.ts` 文件的 vite 插件
+- [unplugin-vue-setup-extend-plus](https://github.com/chenxch/unplugin-vue-setup-extend-plus) 用于在 script setup 中设置组件 name 的插件
 
 ## 面试系列
 
