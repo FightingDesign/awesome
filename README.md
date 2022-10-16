@@ -54,6 +54,7 @@
 
 ## 其它工具
 
+- [在线重命名](https://webrename.cn) 文件批量重命名在线工具，支持各种重命名方法，在线打包
 - [Termius](https://www.termius.com/) 一个简洁好用的 SSH 客户端，界面高端大气
 - [木极简历](https://www.mujicv.com/) 一款使用 Markdown 编写简历的导出 PDF 的工具，免费使用
 - [小码短域名](https://xiaomark.com/) 可以将长域名生成短域名的工具
