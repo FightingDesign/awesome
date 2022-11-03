@@ -14,8 +14,6 @@
 
 ## 宝藏级别
 
-- [MacWk](https://macwk.com/) 对于 Mac 系统可下载的各种破解版软件
-- [WinWk](https://winwk.com/) 对于 Windows 系统可下载的各种破解版软件
 - [moyu](https://github.com/akira-cn/moyu) Github 摸鱼大全！
 - [VsCode Themes](https://vscodethemes.com) vscode 主题大全
 
