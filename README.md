@@ -16,6 +16,8 @@
 
 - [MacWk](https://macwk.com/) 对于 Mac 系统可下载的各种破解版软件
 - [WinWk](https://winwk.com/) 对于 Windows 系统可下载的各种破解版软件
+- [moyu](https://github.com/akira-cn/moyu) Github 摸鱼大全！
+- [VsCode Themes](https://vscodethemes.com) vscode 主题大全
 
 ## Chrome 插件
 
@@ -43,6 +45,7 @@
 
 ## 开发工具
 
+- [varbook](https://varbook.uiuing.com) 适合中文程序员的变量命名助手，NLP+翻译，规范变量命名，定制化变量命名规则
 - [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 可以用于演示正则表达式的执行效果
 - [asciiFlow](https://asciiflow.com/#/) 可以使用字符画出一些效果图，用于粘贴到代码的注释中
 - [Chrome](https://www.google.cn/chrome/) Chrome 浏览器官方网站下载
@@ -64,6 +67,7 @@
 - [vectorMagic](https://zh.vectormagic.com/) 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像
 - [Squoosh](https://squoosh.app/) 可以压缩图片的工具
 - [宝塔](https://www.bt.cn/new/index.html) 简单好用的 Linux / Windows 服务器运维管理面板
+- [在线 PS](https://ps.gaoding.com/#/?hmsr=zc-cc) 节约下载 PS 的时间，直接使用在线版
 
 ## 梯子相关
 
