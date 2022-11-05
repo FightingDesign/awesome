@@ -77,6 +77,7 @@
 
 ## UI 设计相关
 
+- [uiverse](https://uiverse.io/) 一个用 html 和 css 实现的精美元素网站，包括按钮、输入框、开关等
 - [SvgWave](https://svgwave.in/) svg 波浪生成器
 - [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) 可以生产 css 的惊艳背景效果
 - [Custom Shape Dividers](https://www.shapedivider.app/) 自定义形状分隔线，可以生产 svg 的形状
