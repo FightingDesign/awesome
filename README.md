@@ -10,7 +10,7 @@
 
 ## 博客相关
 
-- [Tyh2001](https://blog.tianyuhao.cn) 这是 [田同学](https://github.com/Tyh2001) 的个人博客
+- [Tyh2001](https://blog.tianyuhao.cn) 这是 [田同学](https://github.com/Tyh2001) 的个人博客，很多技术分享和笔记
 
 ## 宝藏级别
 
