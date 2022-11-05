@@ -30,6 +30,7 @@
 
 ## 面试系列
 
+- [tian-classmate](https://github.com/Tyh2001/tian-classmate) 田同学在线开源简历模板
 - [web 前端面试 - 面试官系列](https://vue3js.cn/interview/) 前端面试题
 - [Interview-record](https://github.com/Tyh2001/Interview-record) 这是 [田同学](https://github.com/Tyh2001) 真实的面试复盘
 
