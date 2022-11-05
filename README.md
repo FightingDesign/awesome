@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="./assets/FightingAwesome.svg" alt="Awesome FightingDesign">
+  <img width="400" src="https://tianyuhao.cn/images/fighting-design/FightingAwesome.svg" alt="Awesome FightingDesign">
 </div>
 
 # Fighting Awesome
@@ -16,6 +16,7 @@
 
 - [moyu](https://github.com/akira-cn/moyu) Github 摸鱼大全！
 - [VsCode Themes](https://vscodethemes.com) vscode 主题大全
+- [varbook](https://varbook.uiuing.com/) 前端变量名命名神器，支持多种命名规范，中文翻译
 
 ## Chrome 插件
 
@@ -35,7 +36,8 @@
 ## 文档教程
 
 - [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
-- [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [TypeScript 入门教程](https://ts.xcatliu.com/) TypeScript 入门级别教程
+- [学习 JS 看这个就够了，全面打通 JAVASCRIPT 知识点](https://www.bilibili.com/video/BV1NJ411W7wh/?spm_id_from=333.999.0.0&vd_source=45b9ebc52408dcecd5ef3a71d406552e) 学习 JS 入门到精通教程，视频教程，非错不错，每个视频很简短，干货满满
 
 ## 书籍大全
 
@@ -47,15 +49,18 @@
 - [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 可以用于演示正则表达式的执行效果
 - [asciiFlow](https://asciiflow.com/#/) 可以使用字符画出一些效果图，用于粘贴到代码的注释中
 - [Chrome](https://www.google.cn/chrome/) Chrome 浏览器官方网站下载
+- [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) JavaScript 正则表达式可视化演示
 
 ## 效率工具
 
 - [Markdown Nice](https://editor.mdnice.com/) 一款 Markdown 编辑器，可以适配知乎、掘金等平台
-- [codeImg](https://codeimg.io/) 可以将代码片段的生成图片，用与插入文章
+- [在线重命名](https://webrename.cn) 文件批量重命名在线工具，支持各种重命名方法，在线打包
+- [在线工具](https://tool.lu/) 大量的开发小工具库，非常实用
 
 ## 其它工具
 
-- [在线重命名](https://webrename.cn) 文件批量重命名在线工具，支持各种重命名方法，在线打包
+- [codeImg](https://codeimg.io/) 可以将代码片段的生成图片，用与插入文章
+- [carbon](https://carbon.now.sh/) 可以将代码片段的生成图片，用与插入文章
 - [Termius](https://www.termius.com/) 一个简洁好用的 SSH 客户端，界面高端大气
 - [木极简历](https://www.mujicv.com/) 一款使用 Markdown 编写简历的导出 PDF 的工具，免费使用
 - [小码短域名](https://xiaomark.com/) 可以将长域名生成短域名的工具
@@ -66,6 +71,7 @@
 - [Squoosh](https://squoosh.app/) 可以压缩图片的工具
 - [宝塔](https://www.bt.cn/new/index.html) 简单好用的 Linux / Windows 服务器运维管理面板
 - [在线 PS](https://ps.gaoding.com/#/?hmsr=zc-cc) 节约下载 PS 的时间，直接使用在线版
+- [PPT 超级市场](https://www.pptsupermarket.com/) PPT 超级市场，所有 PPT 均可免费下载
 
 ## 梯子相关
 
@@ -77,6 +83,7 @@
 
 ## UI 设计相关
 
+- [中国色](http://zhongguose.com/#mudanfenhong) 中国风格的颜色库
 - [uiverse](https://uiverse.io/) 一个用 html 和 css 实现的精美元素网站，包括按钮、输入框、开关等
 - [SvgWave](https://svgwave.in/) svg 波浪生成器
 - [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) 可以生产 css 的惊艳背景效果
