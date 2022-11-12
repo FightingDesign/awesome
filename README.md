@@ -75,7 +75,7 @@
 - [Termius](https://www.termius.com/) 一个简洁好用的 SSH 客户端，界面高端大气
 - [木极简历](https://www.mujicv.com/) 一款使用 Markdown 编写简历的导出 PDF 的工具，免费使用
 - [小码短域名](https://xiaomark.com/) 可以将长域名生成短域名的工具
-- [shields](https://shields.io/) 用于生成小标签 -> ![](https://img.shields.io/github/stars/FightingDesign/fighting-design)
+- [shields](https://shields.io/) 用于生成小标签 ![](https://img.shields.io/github/stars/FightingDesign/fighting-design)
 - [WinSCP](https://winscp.net/eng/docs/lang:chs) 一款服务器管理平台
 - [logoly](https://www.logoly.pro/#/) Pornhub 风格的徽标生成器，可以自定义排版和文字，生成挖掘机主题风格 Logo
 - [vectorMagic](https://zh.vectormagic.com/) 轻轻松松 把 JPG、PNG、GIF 文件 转换成 PDF、SVG、EPS 矢量图像
