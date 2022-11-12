@@ -33,6 +33,15 @@
 - [tian-classmate](https://github.com/Tyh2001/tian-classmate) 田同学在线开源简历模板
 - [web 前端面试 - 面试官系列](https://vue3js.cn/interview/) 前端面试题
 - [Interview-record](https://github.com/Tyh2001/Interview-record) 这是 [田同学](https://github.com/Tyh2001) 真实的面试复盘
+- [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-javascript-interviews) 流行的 JavaScript/React / Node / Mongo 堆栈面试问题及其答案
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) 一长串（高级）JavaScript 问题及其解释 ✨
+
+## 学习相关
+
+- [wtfjs](https://github.com/denysdovhan/wtfjs) 有趣而棘手的 JavaScript 示例列表
+- [程序员小山与 Bug](https://www.douyin.com/user/MS4wLjABAAAAE8pu3OvkCMpd_mbHotBKV8Bth4LLl4OA_rVSIAz2Zq2xK22KVBfRlNtegdFy8wtm?is_full_screen=0&vid=7117254908620950791) 针对各种前端的 bug 和知识点解决方案
+- [渡一 Web 前端学习频道](https://www.douyin.com/user/MS4wLjABAAAAi2oukRVcHpgD-HbVdzsxE7tYykr91YuIKukR_X_Yy08EFWRQhRrECDF6FvbvT8Xa) 前端的各种常见知识点总结
+- [33-js-concepts](https://github.com/stephentian/33-js-concepts) 📜 每个 JavaScript 工程师都应懂的 33 个概念
 
 ## 文档教程
 
@@ -61,6 +70,7 @@
 ## 其它工具
 
 - [codeImg](https://codeimg.io/) 可以将代码片段的生成图片，用与插入文章
+- [ray](https://ray.so/) 帮助你快速生成代码片段截图，可自定义样式
 - [carbon](https://carbon.now.sh/) 可以将代码片段的生成图片，用与插入文章
 - [Termius](https://www.termius.com/) 一个简洁好用的 SSH 客户端，界面高端大气
 - [木极简历](https://www.mujicv.com/) 一款使用 Markdown 编写简历的导出 PDF 的工具，免费使用
