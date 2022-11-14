@@ -42,12 +42,12 @@
 - [程序员小山与 Bug](https://www.douyin.com/user/MS4wLjABAAAAE8pu3OvkCMpd_mbHotBKV8Bth4LLl4OA_rVSIAz2Zq2xK22KVBfRlNtegdFy8wtm?is_full_screen=0&vid=7117254908620950791) 针对各种前端的 bug 和知识点解决方案
 - [渡一 Web 前端学习频道](https://www.douyin.com/user/MS4wLjABAAAAi2oukRVcHpgD-HbVdzsxE7tYykr91YuIKukR_X_Yy08EFWRQhRrECDF6FvbvT8Xa) 前端的各种常见知识点总结
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts) 📜 每个 JavaScript 工程师都应懂的 33 个概念
+- [学习 JS 看这个就够了，全面打通 JAVASCRIPT 知识点](https://www.bilibili.com/video/BV1NJ411W7wh/?spm_id_from=333.999.0.0&vd_source=45b9ebc52408dcecd5ef3a71d406552e) 学习 JS 入门到精通教程，视频教程，非错不错，每个视频很简短，干货满满
 
 ## 文档教程
 
 - [MDN](https://developer.mozilla.org/zh-CN/) 包含 Web 技术的兼容性数据
 - [TypeScript 入门教程](https://ts.xcatliu.com/) TypeScript 入门级别教程
-- [学习 JS 看这个就够了，全面打通 JAVASCRIPT 知识点](https://www.bilibili.com/video/BV1NJ411W7wh/?spm_id_from=333.999.0.0&vd_source=45b9ebc52408dcecd5ef3a71d406552e) 学习 JS 入门到精通教程，视频教程，非错不错，每个视频很简短，干货满满
 
 ## 书籍大全
 
