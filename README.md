@@ -28,6 +28,10 @@
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) 可用作 ts 类型打包，用于生成 `.d.ts` 文件的 vite 插件
 - [unplugin-vue-setup-extend-plus](https://github.com/chenxch/unplugin-vue-setup-extend-plus) 用于在 script setup 中设置组件 name 的插件
 
+## 第三方库
+
+- [ace-builds](https://github.com/ajaxorg/ace-builds) Ace 代码编辑器的打包版本。可实现简单 IDE
+
 ## 面试系列
 
 - [tian-classmate](https://github.com/Tyh2001/tian-classmate) 田同学在线开源简历模板
@@ -86,6 +90,7 @@
 
 ## 梯子相关
 
+- [在人间](https://dashboard.zrj222.com/) 在人间加速器
 - [AURORA](https://arr003.network/) 免费极光加速器
 - [Superfast](http://www.super-fastapps.com/zh/) 一款加速器（收费版）
 - [西游](https://sunwk.fun/) 西游加速器
