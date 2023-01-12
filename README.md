@@ -105,6 +105,7 @@
 - [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) 可以生产 css 的惊艳背景效果
 - [Custom Shape Dividers](https://www.shapedivider.app/) 自定义形状分隔线，可以生产 svg 的形状
 - [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/centering-known) 💄Web 开发者的 CSS 技巧~里面有多种 css 的案例效果提供使用
+- [https://github.com/themesberg/flowbite] Flowbite 是使用 Tailwind CSS 构建的 UI 组件的免费开源集合
 - [Preline UI](https://preline.co/index.html) Preline UI 是一组基于实用程序第一个 Tailwind CSS 框架的开源预构建 UI 组件。
 - [NavNav+](https://navnav.co/) 各种 css 特效
 - [cssFx](https://cssfx.netlify.app/) css 动画合集
