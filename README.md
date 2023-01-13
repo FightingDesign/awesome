@@ -39,6 +39,7 @@
 - [Interview-record](https://github.com/Tyh2001/Interview-record) 这是 [田同学](https://github.com/Tyh2001) 真实的面试复盘
 - [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-javascript-interviews) 流行的 JavaScript/React / Node / Mongo 堆栈面试问题及其答案
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) 一长串（高级）JavaScript 问题及其解释 ✨
+- [js-challenges](https://github.com/Sunny-117/js-challenges) 集锦前端 JavaScript 编程题，Not just for interviews
 
 ## 学习相关
 
