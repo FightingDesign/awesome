@@ -93,7 +93,7 @@
 ## 梯子相关
 
 - [在人间](https://dashboard.zrj222.com/) 在人间加速器
-- [AURORA](https://www.tsbyxcx.com/) 免费极光加速器
+- [AURORA](https://www.catjs2.xyz/) 免费极光加速器
 - [Superfast](http://www.super-fastapps.com/zh/) 一款加速器（收费版）
 - [西游](https://sunwk.fun/) 西游加速器
 - [vpncn.github.io](https://github.com/vpncn/vpncn.github.io) 2022 中国翻墙软件 VPN 推荐以及科学上网避坑，稳定好用。对比 SSR 机场、蓝灯、V2ray、老王 VPN、VPS 搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子 VPN 下载推荐
