@@ -60,6 +60,7 @@
 
 ## 开发工具
 
+- [termius](https://termius.com/) 服务器终端工具
 - [varbook](https://varbook.uiuing.com) 适合中文程序员的变量命名助手，NLP+翻译，规范变量命名，定制化变量命名规则
 - [Regulex](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>) 可以用于演示正则表达式的执行效果
 - [asciiFlow](https://asciiflow.com/#/) 可以使用字符画出一些效果图，用于粘贴到代码的注释中
